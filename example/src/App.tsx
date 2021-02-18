@@ -3,7 +3,6 @@ import * as React from 'react';
 import { StyleSheet, View, Text } from 'react-native';
 import RnOpenmojiPicker from 'rn-openmoji-picker';
 
-
 export default function App() {
   const [result, setResult] = React.useState<number | undefined>();
 
