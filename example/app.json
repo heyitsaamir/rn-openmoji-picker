@@ -1,0 +1,22 @@
+{
+  "name": "rn-openmoji-picker-example",
+  "displayName": "RnOpenmojiPicker Example",
+  "expo": {
+    "name": "rn-openmoji-picker-example",
+    "slug": "rn-openmoji-picker-example",
+    "description": "Example app for rn-openmoji-picker",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
